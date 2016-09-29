@@ -1,6 +1,6 @@
-# HungryCoder
+# Hungry Coder
 
-Our experimentation with cooking over the past couple of years has led us to some simple yet delicious recipes. Here are some of them, presented as valid, commented code. These programs when executed output the plain text recipe.
+Our experimentation with cooking over the past couple of years has led us to some simple yet delicious recipes. Here are some of them, presented as valid, commented code. These programs when executed, output the plain text recipe.
 
 Our reward: The joy of writing delicious code!
 
