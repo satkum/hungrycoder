@@ -9,7 +9,7 @@ coconut = Ingredients.add("Grated coconut", "0.5", "cup")
 chillies = Ingredients.add("Green chilli peppers", "8")
 tomatoes = Ingredients.add("Ripe tomatoes", "3")
 turmeric = Ingredients.add("Turmeric powder", "0.25", "tespoon")
-asafoetida = Ingredients.add("Asafoetida or heng powder", "0.25", "teaspoon")
+asafoetida = Ingredients.add("Asafoetida powder", "0.25", "teaspoon")
 #Cut the vegetable in small cubes, can use cabbage instead
 vegetable = Ingredients.add("Squash", "1")
 #For final tempering
@@ -29,5 +29,5 @@ cumin = fry(cumin)
 blendedMixture = blend(cumin, chillies, coconut)
 simmeringMixture = add(simmeringMixture, blendedMixture)
 
-temperMix = temper(mustard, channaDhal, curryLeaves)
+temperMix = temper(mustard, channaDhal, curryLeaves, asafoetida)
 simmeringMixture = add(simmeringMixture, temperMix)
