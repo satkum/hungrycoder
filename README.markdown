@@ -4,7 +4,8 @@ Our experimentation with cooking over the past couple of years has led us to som
 
 Our reward: The joy of writing delicious code!
 
-For example, a portion of the output from [kootu.py][1]
+For example, a portion of the code from [kootu.py][1]
+
 ```python
 Ingredients.acquireAll()
 
@@ -21,6 +22,8 @@ simmeringMixture = add(simmeringMixture, blendedMixture)
 temperMix = temper(mustard, channaDhal, curryLeaves, asafoetida)
 simmeringMixture = add(simmeringMixture, temperMix)
 ```
+
+produces this output:
 
 ```
 Use a pressure cooker to boil Toor dhal, Ripe tomatoes, Turmeric powder and Vegetable oil
