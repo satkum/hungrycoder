@@ -2,6 +2,18 @@
 
 Our experimentation with cooking over the past couple of years has led us to some simple yet delicious recipes. Here are some of them, presented as valid, commented code. These programs when executed, output the plain text recipe.
 
+For example, a portion of the output from [kootu.py][1]
+```
+Use a pressure cooker to boil Toor dhal, Ripe tomatoes, Turmeric powder and Vegetable oil
+Use a pan to simmer cooked mixture under medium heat
+Add Squash and Salt to simmering mixture
+Fry Cumin seeds
+Blend Fried Cumin seeds, Green chilli peppers and Grated coconut
+Add blended mixture to simmering mixture
+Heat oil in a small pan and temper Mustard seeds, Channa dhal, Curry leaves and Asafoetida powder
+Add tempered mix to simmering mixture
+```
+
 Our reward: The joy of writing delicious code!
 
 ## Contributing
@@ -12,6 +24,7 @@ All contributions are welcome, from the tiniest typo to a brand new recipe. Send
 
 Contributors retain copyright to their work, and can request removal at any
 time. By uploading a recipe here, you agree to publish your work under the default
-[Creative Commons Attribution-ShareAlike 3.0 Unported][1] licensing.
+[Creative Commons Attribution-ShareAlike 3.0 Unported][2] licensing.
 
-[1]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+[2]: /kootu.py
+[2]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
